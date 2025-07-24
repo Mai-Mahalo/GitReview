@@ -15,8 +15,6 @@ public class HelloWorld {//beginning of the class
 		// sysout + CTRL + Space
 		System.out.println("How did we do today????");	
 		
-		// This is for Git Review class
-		System.out.println("Hello Again....");
 	}
 	
 
