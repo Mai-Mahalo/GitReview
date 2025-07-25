@@ -68,13 +68,26 @@ public class Homework1 {
 		
 		System.out.println();
 		
-		
-	scan.close();	
+		scan.close();
+			
 	}
-
-	}	
 	
-    }
+	
+}
+	
+	// Creating a new method (for Git review class)
+	public static void newMethod() {
+		
+	}
+	
+
+	
+}
+
+
+	
+	
+    
 	
 	
 	
