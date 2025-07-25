@@ -35,6 +35,12 @@ public class Homework1 {
 	
 		
 		}
+	
+	// This is for Git Review class
+	public void test1()
+	{
+		System.out.println("This is test 1");
+	}
 		
 		}
 		
