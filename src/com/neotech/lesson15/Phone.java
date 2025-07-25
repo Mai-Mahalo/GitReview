@@ -25,6 +25,12 @@ public class Phone {
 	void navigate() {
 		System.out.println(brand + " navigates!");
 	}
+	
+	// This method is added by Elion (This is for Git Review class)
+	void installApplicaton(String appName) {
+		System.out.println("Installing the application");
+		
+	}
 
 
 }

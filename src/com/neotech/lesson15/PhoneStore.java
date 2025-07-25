@@ -43,6 +43,10 @@ public class PhoneStore {
 		nokia.text();
 		nokia.navigate();
 		
+		System.out.println("----------------"); // This is from Git Review class below.
+		
+		System.out.println("Elion made some changes here");
+		
 		
 		
 		
